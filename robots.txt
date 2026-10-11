@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ataullah000.github.io/ataullah-portfolio/sitemap.xml
